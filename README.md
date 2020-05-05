@@ -1,3 +1,5 @@
+# Expense Tracker
+
 Expense Tracker using ReactJS Frontend and MERN Backend.
 
 ![COVID-19 Tracker](Screenshots/Screenshot.png)
